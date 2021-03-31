@@ -6,8 +6,8 @@
 import cv2
 
 #Get the image location and image file name
-img_location = 'D:/self-project( Cartonifier)/'
-filename = 'puppy.jpeg'
+img_location = 'D:/project/'
+filename = 'image1.jpeg'
 
 #read in the image
 img = cv2.imread(img_location+filename)
